@@ -1,0 +1,2 @@
+# Patsanstha
+Core Banking Solution
